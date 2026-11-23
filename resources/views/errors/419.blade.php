@@ -1,0 +1,1 @@
+@include('errors._portal-or-default', ['code' => '419', 'title' => 'Your session expired', 'message' => 'For your safety the page expired after a while without use. Go back and try again, or sign in again.'])
